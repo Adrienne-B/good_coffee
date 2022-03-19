@@ -9,16 +9,16 @@ other ways to advance a website or future website.
 ### Software used:
 Visual Studio Code
 
-###3 My Personal Challenges
+#### My Personal Challenges
 No major challenges but making sure to linking the correct bootstrap links in the header part of html.
 
-###3 Random Unexpected Challenges
+#### Random Unexpected Challenges
 the animated effect wasn't working
 
-###3 Solutions
+#### Solutions
 I realized that I needed to put stylesheet after link re= for the animated stylesheet
 
-###3 Weakness so far
+#### Weakness so far
 1.	N/A
 
 
